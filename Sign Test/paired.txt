@@ -1,0 +1,6 @@
+12
+3 and 1, 5 and 2, 2 and 0, 3 and 2, 3 and 2, 3 and 0, 0 and 2, 
+4 and 4, 1 and 3, 6 and 4, 4 and 1, 1 and 0
+
+Ho: μ1 = μ2   Ha: μ1 > μ2
+𝛼 = 0.05
