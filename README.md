@@ -6,6 +6,12 @@ The sign test can also test if the median of a collection of numbers is signific
 
 The code itself is two parts a Python API file to get the normal and binomial table values as needed in the test, and the test itself using C++.
 
+**To use it first run the Python server using this command in the terminal**
+
+```fastapi dev distribution_api.py```
+
+**Then run the C++ file and follow the steps below**
+
 Steps to solve the sign test using my code:
 1.	Type “yes” if it’s a paired test else type “no”
 2.	Then enter the sample size (N)
